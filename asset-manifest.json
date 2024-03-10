@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/invoice-system-demo/static/css/main.4dec4033.css",
+    "main.js": "/invoice-system-demo/static/js/main.45c94e79.js",
+    "index.html": "/invoice-system-demo/index.html",
+    "main.4dec4033.css.map": "/invoice-system-demo/static/css/main.4dec4033.css.map",
+    "main.45c94e79.js.map": "/invoice-system-demo/static/js/main.45c94e79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dec4033.css",
+    "static/js/main.45c94e79.js"
+  ]
+}
